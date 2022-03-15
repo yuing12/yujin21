@@ -12,7 +12,7 @@
 
 ul li {
 list-style-type: none;
-}
+} 
 
 /* 헤더 */
 .HomeTitle_container {
